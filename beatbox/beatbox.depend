@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1596029448 source:c:\users\may-lo.desktop-v709srn\desktop\proyecto_juego\beatbox\beatbox\main.cpp
+	<iostream>
+	<graphics.h>
+	<iostream>
+	<time.h>
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	<graphics.h>
+	<conio.h>
+
